@@ -1,0 +1,4 @@
+*.log
+password.txt
+my_module/
+!importent.log
