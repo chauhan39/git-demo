@@ -1,4 +1,4 @@
-# The best githu repo
+# The best github repo
 This is readme file
 Best way are:
 - eat
